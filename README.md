@@ -9,3 +9,4 @@ Instructions:
     - 2) Prompts for a movie and the year it was released and shows its actors
     - 3) Shows how 2 actors are connected to each other (through movies they've been in)
     - 4) Exits the program
+- *Note: to find valid actor and movie names please refer to the "actors-top250.list" file
